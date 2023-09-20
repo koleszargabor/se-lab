@@ -88,6 +88,8 @@ public class GT4500 implements SpaceShip {
           firingSuccess = secondaryTorpedoStore.fire(1);
           wasPrimaryFiredLast = false;
         }
+        
+        System.out.println("itt jart a Hugo Boss");
 
         break;
     }

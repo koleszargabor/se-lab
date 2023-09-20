@@ -89,7 +89,7 @@ public class GT4500 implements SpaceShip {
           wasPrimaryFiredLast = false;
         }
         
-        System.out.println("itt jart a Hugo Boss");
+        System.out.println("itt jart a Pista Boss");
 
         System.out.println("itt jart a szundimano");
 
